@@ -1,11 +1,12 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
-				"paths": [ "*"]
-			}
-		]
+		"details": [{
+		    "appID": "Q5J6WWF48W.com.syg.baguamallTest",
+		    "paths": ["*"]
+		},{
+		    "appID": "4T347V3WAW.com.syg.baguamall",
+		    "paths": ["*"]
+		}]
 	}
 }
